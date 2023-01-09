@@ -6,7 +6,7 @@ This is an implementation of a Virtual Machine for the
 [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3) computer, written in
 Go.
 
-It was inspired by [Justin Meiners' and Ryan Pendleton's article](https://justinmeiners.github.io/lc3-vm/index.html).
+It was inspired by [Justin Meiners' and Ryan Pendleton's article]
 
 It can run implementations of programs such as:
 
