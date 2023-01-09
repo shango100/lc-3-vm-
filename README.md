@@ -4,7 +4,7 @@
 
 This is an implementation of a Virtual Machine for the
 [LC-3](https://en.wikipedia.org/wiki/Little_Computer_3) computer, written in
-Go.
+c.
 
 It was inspired by [Justin Meiners' and Ryan Pendleton's article]
 
